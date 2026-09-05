@@ -1,2 +1,2 @@
-# Git Lab Project (Main version)
+# Git Lab Project (Branch version)
 This line was added in a feature branch.
